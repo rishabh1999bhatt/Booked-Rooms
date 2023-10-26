@@ -1,0 +1,6 @@
+.column-container {
+  height: 400px;
+  width: 50px;
+  display: flex;
+  flex-direction: column;
+}

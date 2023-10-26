@@ -1,0 +1,31 @@
+.hotel-rooms-container {
+  width: 722px;
+  margin: 5rem auto;
+  position: relative;
+  background-color: aliceblue;
+}
+
+.dates-container {
+  display: flex;
+  gap: 10px;
+  border: 1px solid black;
+}
+
+.date-box {
+  width: 70px;
+  height: 70px;
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.room-number-container {
+  width: 70px;
+  position: absolute;
+  top: 70px;
+  left: -70px;
+  border: 1px solid black;
+  height: 358px;
+}
